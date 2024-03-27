@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\bin\Debug\net8.0\Exemplo1Aula69Vetores.exe
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\bin\Debug\net8.0\Exemplo1Aula69Vetores.deps.json
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\bin\Debug\net8.0\Exemplo1Aula69Vetores.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\bin\Debug\net8.0\Exemplo1Aula69Vetores.dll
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\bin\Debug\net8.0\Exemplo1Aula69Vetores.pdb
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.dll
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\refint\Exemplo1Aula69Vetores.dll
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.pdb
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\Exemplo1Aula69Vetores.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\Exemplo1Aula69Vetores\Exemplo1Aula69Vetores\obj\Debug\net8.0\ref\Exemplo1Aula69Vetores.dll

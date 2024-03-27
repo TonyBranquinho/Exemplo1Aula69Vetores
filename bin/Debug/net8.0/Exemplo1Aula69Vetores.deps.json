@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exemplo1Aula69Vetores/1.0.0": {
+        "runtime": {
+          "Exemplo1Aula69Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo1Aula69Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
